@@ -1,3 +1,5 @@
+//Depth first search algorithm 
+
 class DFS():
     def __init__(self):
         self.map = []
