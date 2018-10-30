@@ -1,4 +1,4 @@
-
+//Breadth first search algorithm for AI
 import Queue
 import Alg
 from copy import deepcopy
